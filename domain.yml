@@ -1,16 +1,46 @@
 intents:
-  - Deus_e_o_infinito_0001
-  - Deus_e_o_infinito_0002
-  - Deus_e_o_infinito_0003
-  - Provas_existencia_Deus_0004
-  - Provas_existencia_Deus_0005
-  - Provas_existencia_Deus_0006
-  - Provas_existencia_Deus_0007
-  - Provas_existencia_Deus_0008
-  - Provas_existencia_Deus_0009
-  - Atributos_divindade_0010
-  - Atributos_divindade_0011
-
+- Deus_e_o_infinito_0001
+- Deus_e_o_infinito_0002
+- Deus_e_o_infinito_0003
+- Provas_existencia_Deus_0004
+- Provas_existencia_Deus_0005
+- Provas_existencia_Deus_0006
+- Provas_existencia_Deus_0007
+- Provas_existencia_Deus_0008
+- Provas_existencia_Deus_0009
+- Atributos_divindade_0010
+- Atributos_divindade_0011
+templates:
+  utter_Resposta0001:
+  - text: Deus é a inteligência suprema, causa primária de todas as coisas
+  utter_Resposta0002:
+  - text: 'O que não tem começo nem fim: o desconhecido; tudo o que é desconhecido
+      é infinito'
+  utter_Resposta0003:
+  - text: Definição incompleta. Pobreza da linguagem humana, insuficiente para definir
+      o que está acima da liguagem dos homens
+  utter_Resposta0004:
+  - text: Não há efeito sem causa. Procurai a causa de tudo o que não é obra do homem
+      e vossa razão responderá
+  utter_Resposta0005:
+  - text: A de que Deus existe; pois, donde lhes viria esse sentimento, se não tivesse
+      uma base?
+  utter_Resposta0006:
+  - text: Se assim fosse, por que existiria nos vossos selvagens esse sentimento?
+  utter_Resposta0007:
+  - text: Mas, então, qual seria a causa dessas propriedades? É indispensável sempre
+      uma causa primária
+  utter_Resposta0008:
+  - text: Outro absurdo! Que homem de bom-senso pode considerar o acaso um ser inteligente?
+      E, ademais que é o acaso? Nada
+  utter_Resposta0009:
+  - text: 'Tendes um provérbio que diz: Pela obra reconhece o autor. Pois bem! Vede
+      a obra e procurai o autor. O orgulho que gera a incredulidade.'
+  utter_Resposta0010:
+  - text: Não; falta-lhe para isso o sentido
+  utter_Resposta0011:
+  - text: Quando não mais estiver o espírito obscurecido pala matéria. Quando, pela
+      sua perfeição, se houver aproximado de Deus, ele o verá e o compreenderá
 actions:
 - utter_Resposta0001
 - utter_Resposta0002
@@ -23,38 +53,3 @@ actions:
 - utter_Resposta0009
 - utter_Resposta0010
 - utter_Resposta0011
-
-templates:
-  utter_Resposta0001:
-  - text: "Deus é a inteligência suprema, causa primária de todas as coisas"
-
-  utter_Resposta0002:
-  - text: "O que não tem começo nem fim: o desconhecido; tudo o que é desconhecido é infinito"
-
-  utter_Resposta0003:
-  - text: "Definição incompleta. Pobreza da linguagem humana, insuficiente para definir o que está acima da liguagem dos homens"
-
-  utter_Resposta0004:
-  - text: "Não há efeito sem causa. Procurai a causa de tudo o que não é obra do homem e vossa razão responderá"
-
-  utter_Resposta0005:
-  - text: "A de que Deus existe; pois, donde lhes viria esse sentimento, se não tivesse uma base?"
-  
-  utter_Resposta0006:
-  - text: "Se assim fosse, por que existiria nos vossos selvagens esse sentimento?"
-  
-  utter_Resposta0007:
-  - text: "Mas, então, qual seria a causa dessas propriedades? É indispensável sempre uma causa primária"
-  
-  utter_Resposta0008:
-  - text: "Outro absurdo! Que homem de bom-senso pode considerar o acaso um ser inteligente? E, ademais que é o acaso? Nada"
-  
-  utter_Resposta0009:
-  - text: "Tendes um provérbio que diz: Pela obra reconhece o autor. Pois bem! Vede a obra e procurai o autor. O orgulho que gera a incredulidade."
-  
-  utter_Resposta0010:
-  - text: "Não; falta-lhe para isso o sentido"
-
-  utter_Resposta0011:
-  - text: "Quando não mais estiver o espírito obscurecido pala matéria. Quando, pela sua perfeição, se houver aproximado de Deus, ele o verá e o compreenderá"
-
