@@ -1,31 +1,60 @@
 intents:
-  - greet
-  - goodbye
-  - affirm
-  - deny
-  - mood_great
-  - mood_unhappy
+  - Deus_e_o_infinito_0001
+  - Deus_e_o_infinito_0002
+  - Deus_e_o_infinito_0003
+  - Provas_existencia_Deus_0004
+  - Provas_existencia_Deus_0005
+  - Provas_existencia_Deus_0006
+  - Provas_existencia_Deus_0007
+  - Provas_existencia_Deus_0008
+  - Provas_existencia_Deus_0009
+  - Atributos_divindade_0010
+  - Atributos_divindade_0011
 
 actions:
-- utter_greet
-- utter_cheer_up
-- utter_did_that_help
-- utter_happy
-- utter_goodbye
+- Resposta0001
+- Resposta0002
+- Resposta0003
+- Resposta0004
+- Resposta0005
+- Resposta0006
+- Resposta0007
+- Resposta0008
+- Resposta0009
+- Resposta0010
+- Resposta0011
 
 templates:
-  utter_greet:
-  - text: "Hey! How are you?"
+  Resposta0001:
+  - text: "Deus é a inteligência suprema, causa primária de todas as coisas"
 
-  utter_cheer_up:
-  - text: "Here is something to cheer you up:"
-    image: "https://i.imgur.com/nGF1K8f.jpg"
+  Resposta0002:
+  - text: "O que não tem começo nem fim: o desconhecido; tudo o que é desconhecido é infinito"
 
-  utter_did_that_help:
-  - text: "Did that help you?"
+  Resposta0003:
+  - text: "Definição incompleta. Pobreza da linguagem humana, insuficiente para definir o que está acima da liguagem dos homens"
 
-  utter_happy:
-  - text: "Great carry on!"
+  Resposta0004:
+  - text: "Não há efeito sem causa. Procurai a causa de tudo o que não é obra do homem e vossa razão responderá"
 
-  utter_goodbye:
-  - text: "Bye"
+  Resposta0005:
+  - text: "A de que Deus existe; pois, donde lhes viria esse sentimento, se não tivesse uma base?"
+  
+  Resposta0006:
+  - text: "Se assim fosse, por que existiria nos vossos selvagens esse sentimento?"
+  
+  Resposta0007:
+  - text: "Mas, então, qual seria a causa dessas propriedades? É indispensável sempre uma causa primária"
+  
+  Resposta0008:
+  - text: "Outro absurdo! Que homem de bom-senso pode considerar o acaso um ser inteligente? E, ademais que é o acaso? Nada"
+  
+  Resposta0009:
+  - text: "Tendes um provérbio que diz: Pela obra reconhece o autor. Pois bem! Vede a obra e procurai o autor. O orgulho que gera a incredulidade."
+  
+  Resposta0010:
+  - text: "Não; falta-lhe para isso o sentido"
+
+  Resposta0011:
+  - text: "Quando não mais estiver o espírito obscurecido pala matéria. Quando, pela sua perfeição, se houver aproximado de Deus, ele o verá e o compreenderá"
+
