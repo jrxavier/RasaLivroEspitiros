@@ -12,49 +12,49 @@ intents:
   - Atributos_divindade_0011
 
 actions:
-- Resposta0001
-- Resposta0002
-- Resposta0003
-- Resposta0004
-- Resposta0005
-- Resposta0006
-- Resposta0007
-- Resposta0008
-- Resposta0009
-- Resposta0010
-- Resposta0011
+- utter_Resposta0001
+- utter_Resposta0002
+- utter_Resposta0003
+- utter_Resposta0004
+- utter_Resposta0005
+- utter_Resposta0006
+- utter_Resposta0007
+- utter_Resposta0008
+- utter_Resposta0009
+- utter_Resposta0010
+- utter_Resposta0011
 
 templates:
-  Resposta0001:
+  utter_Resposta0001:
   - text: "Deus é a inteligência suprema, causa primária de todas as coisas"
 
-  Resposta0002:
+  utter_Resposta0002:
   - text: "O que não tem começo nem fim: o desconhecido; tudo o que é desconhecido é infinito"
 
-  Resposta0003:
+  utter_Resposta0003:
   - text: "Definição incompleta. Pobreza da linguagem humana, insuficiente para definir o que está acima da liguagem dos homens"
 
-  Resposta0004:
+  utter_Resposta0004:
   - text: "Não há efeito sem causa. Procurai a causa de tudo o que não é obra do homem e vossa razão responderá"
 
-  Resposta0005:
+  utter_Resposta0005:
   - text: "A de que Deus existe; pois, donde lhes viria esse sentimento, se não tivesse uma base?"
   
-  Resposta0006:
+  utter_Resposta0006:
   - text: "Se assim fosse, por que existiria nos vossos selvagens esse sentimento?"
   
-  Resposta0007:
+  utter_Resposta0007:
   - text: "Mas, então, qual seria a causa dessas propriedades? É indispensável sempre uma causa primária"
   
-  Resposta0008:
+  utter_Resposta0008:
   - text: "Outro absurdo! Que homem de bom-senso pode considerar o acaso um ser inteligente? E, ademais que é o acaso? Nada"
   
-  Resposta0009:
+  utter_Resposta0009:
   - text: "Tendes um provérbio que diz: Pela obra reconhece o autor. Pois bem! Vede a obra e procurai o autor. O orgulho que gera a incredulidade."
   
-  Resposta0010:
+  utter_Resposta0010:
   - text: "Não; falta-lhe para isso o sentido"
 
-  Resposta0011:
+  utter_Resposta0011:
   - text: "Quando não mais estiver o espírito obscurecido pala matéria. Quando, pela sua perfeição, se houver aproximado de Deus, ele o verá e o compreenderá"
 
