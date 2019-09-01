@@ -1,3 +1,15 @@
+## intent:Atributos_divindade_0010
+- Pode o home compreender a natureza íntima de Deus?
+- O homem pode compreender Deus?
+- Deus é totalmente compreensível?
+- Onde se pode encontar a prova da existência de Deus?
+- prova da existência de Deus
+
+## intent:Atributos_divindade_0011
+- Será dado um dia ao homem compreender o mistério da Divindade?
+- Um dia compreenderemos Deus?
+- Um dia veremos Deus?
+
 ## intent:Deus_e_o_infinito_0001
 - Que é Deus?
 - Defina Deus
@@ -16,6 +28,8 @@
 
 ## intent:Provas_existencia_Deus_0004
 - Onde pode se encontrar a prova da existência de Deus?
+- Onde se pode encontrar prova da existencia de Deus?
+- Onde se pode encontrar a prova da existência de Deus?
 
 ## intent:Provas_existencia_Deus_0005
 - Que dedução se pode tirar do sentimento instintivo, que todos os homens trazem sem si, da existência de Deus?
@@ -33,13 +47,3 @@
 
 ## intent:Provas_existencia_Deus_0009
 - Em que é que, na causa primária, se revela uma inteligência suprema a todas as inteligências?
-
-## intent:Atributos_divindade_0010
-- Pode o home compreender a natureza íntima de Deus?
-- O homem pode compreender Deus?
-- Deus é totalmente compreensível?
-
-## intent:Atributos_divindade_0011
-- Será dado um dia ao homem compreender o mistério da Divindade?
-- Um dia compreenderemos Deus?
-
